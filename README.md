@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malhar Dave
 
-🎓 Final-year Computer Science Student at MIT School of Computing  
+🎓 Final-year Computer Science Student at MIT ADT University, Pune.  
 💻 Backend & AI/ML Enthusiast | 🌱 Lifelong Learner | 🚀 Problem Solver  
 
 I love building projects that combine creativity and technology. Currently, I’m working on backend development with Node.js, exploring databases like MySQL & MongoDB, and diving into AI/ML using Python, TensorFlow, and Keras.  
