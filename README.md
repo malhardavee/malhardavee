@@ -16,12 +16,9 @@ I love building projects that combine creativity and technology. Currently, I’
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,mongodb,tensorflow,git,github,html,css,js,express&perline=6" />
+</p>
 
 ---
 
@@ -33,19 +30,18 @@ I actively practice **Data Structures & Algorithms (DSA)** on LeetCode and work 
 Check out my LeetCode profile:  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/malhardave_/)
 
-I focus on mastering:
-- Arrays, Strings, Linked Lists, Trees, Graphs  
-- Recursion & Dynamic Programming  
-- Greedy & Divide & Conquer techniques  
-- Problem-solving strategies for competitive coding and interviews
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
-![Malhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malhardavee&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malhardavee&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malhardavee&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malhardavee&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhardavee&layout=compact&theme=radical&cache_seconds=1800" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=malhardavee&theme=radical&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=DD2727&currStreakLabel=DD2727" alt="GitHub Streak"/>
+</p>
 
 ---
 
