@@ -20,15 +20,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-### 📈 GitHub Statistics & Streak
+### 📈 Contribution Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malhardavee&show_icons=true&theme=tokyo-night&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malhardavee&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=malhardavee&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malhardavee&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malhardavee&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
@@ -65,10 +65,6 @@
 
 ### 🧩 DSA & Problem Solving
 
-<p align="left">
-I’m passionate about solving algorithmic challenges and optimizing solutions. Check out my progress here:
-</p>
-
 <p align="center">
   <a href="https://leetcode.com/u/malhardave_/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
@@ -82,8 +78,8 @@ I’m passionate about solving algorithmic challenges and optimizing solutions. 
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/malhardavee" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="mailto:malhardave@example.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/-malhardave/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/></a>
+  <a href="mailto:malhardavepc@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="35" width="45"/></a>
 </p>
 
 <p align="center">
